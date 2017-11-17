@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
-#include "Engine.h"
+#include "GameFramework/Pawn.h"
 #include "Components/ActorComponent.h"
 #include "SteamVoiceComponent.generated.h"
 
